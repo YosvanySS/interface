@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hydrogen in metals
+* source:	https://sketchfab.com/3d-models/hydrogen-in-metals-bd9932e80c514a1fabf666d8172487ba
+* author:	yosvanyss (https://sketchfab.com/yosvanyss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hydrogen in metals" (https://sketchfab.com/3d-models/hydrogen-in-metals-bd9932e80c514a1fabf666d8172487ba) by yosvanyss (https://sketchfab.com/yosvanyss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
