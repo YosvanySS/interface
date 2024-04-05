@@ -2,9 +2,7 @@
 
 Final interstitial sites where H was placed after the relaxation of the W/Cu interface.
 
-<span style="color:red">Tetrahedral sites</span> and <span style="color:blue">Octahedral sites</span>
-
-$\textcolor{red}{\mathrm{Red}}$
+$\textcolor{red}{\mathrm{Tetrahedral sites}}$ and $\textcolor{red}{\mathrm{Octahedral sites}}$
 
 
 ![Figure_08](https://github.com/YosvanySS/interface/blob/main/images/Figure_08.png)
