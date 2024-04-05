@@ -1,4 +1,4 @@
-# W/Cu interface + H
+# H at the W/Cu interface
 
 Final interstitial sites where H was placed after the relaxation of the W/Cu interface.
 
